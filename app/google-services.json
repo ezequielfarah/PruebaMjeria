@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "17656618311",
+    "project_id": "pruebamjeria",
+    "storage_bucket": "pruebamjeria.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:17656618311:android:72aed61513c5a15eff4062",
+        "android_client_info": {
+          "package_name": "com.example.pruebamjeria"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "17656618311-jb6njp0452tdlp632seb2fvfvqhiomiq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCjzi-ON4w8eNJYp5V723asYwMI3xsK3QU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "17656618311-jb6njp0452tdlp632seb2fvfvqhiomiq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
